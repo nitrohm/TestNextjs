@@ -2,7 +2,7 @@ echo "# TestNextjs" >> README.md
 
 git init
 
-git add README.md           // push ไฟล์ไปทั้งหมด
+git add c          // push ไฟล์ไปทั้งหมด
 
 git commit -m "first commit"
 
